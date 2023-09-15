@@ -12,16 +12,27 @@
   "dependencies": {
     "@babel/parser": "^7.22.16",
     "@babel/traverse": "^7.22.19",
+    "@reduxjs/toolkit": "^1.9.5",
     "axios": "^1.5.0",
     "buffer": "^6.0.3",
+    "d3": "^7.8.5",
+    "dagre-d3": "^0.6.4",
     "graphlib": "^2.1.8",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-d3-graph": "^2.6.0",
+    "react-d3-tree": "^3.6.1",
+    "react-dom": "^18.2.0",
+    "react-flow-renderer": "^10.3.17",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^6.16.0"
   },
   "devDependencies": {
     "@types/babel__traverse": "^7.20.1",
+    "@types/d3": "^7.4.0",
+    "@types/dagre-d3": "^0.6.3",
     "@types/graphlib": "^2.1.8",
     "@types/react": "^18.2.15",
+    "@types/react-d3-graph": "^2.6.4",
     "@types/react-dom": "^18.2.7",
     "@typescript-eslint/eslint-plugin": "^6.0.0",
     "@typescript-eslint/parser": "^6.0.0",
